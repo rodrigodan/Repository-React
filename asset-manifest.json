@@ -1,13 +1,13 @@
 {
-  "main.css": "/repository-gh-pages/static/css/main.3f852a7e.chunk.css",
-  "main.js": "/repository-gh-pages/static/js/main.fdc3c544.chunk.js",
-  "main.js.map": "/repository-gh-pages/static/js/main.fdc3c544.chunk.js.map",
-  "static/js/1.3f2929ae.chunk.js": "/repository-gh-pages/static/js/1.3f2929ae.chunk.js",
-  "static/js/1.3f2929ae.chunk.js.map": "/repository-gh-pages/static/js/1.3f2929ae.chunk.js.map",
-  "runtime~main.js": "/repository-gh-pages/static/js/runtime~main.e33555dc.js",
-  "runtime~main.js.map": "/repository-gh-pages/static/js/runtime~main.e33555dc.js.map",
-  "static/css/main.3f852a7e.chunk.css.map": "/repository-gh-pages/static/css/main.3f852a7e.chunk.css.map",
-  "index.html": "/repository-gh-pages/index.html",
-  "precache-manifest.52cf8f5827129ba8c600702acd0152f9.js": "/repository-gh-pages/precache-manifest.52cf8f5827129ba8c600702acd0152f9.js",
-  "service-worker.js": "/repository-gh-pages/service-worker.js"
+  "main.css": "/Repository-React/static/css/main.bce9a899.chunk.css",
+  "main.js": "/Repository-React/static/js/main.e03f1752.chunk.js",
+  "main.js.map": "/Repository-React/static/js/main.e03f1752.chunk.js.map",
+  "static/js/1.63a8f196.chunk.js": "/Repository-React/static/js/1.63a8f196.chunk.js",
+  "static/js/1.63a8f196.chunk.js.map": "/Repository-React/static/js/1.63a8f196.chunk.js.map",
+  "runtime~main.js": "/Repository-React/static/js/runtime~main.0dea788c.js",
+  "runtime~main.js.map": "/Repository-React/static/js/runtime~main.0dea788c.js.map",
+  "static/css/main.bce9a899.chunk.css.map": "/Repository-React/static/css/main.bce9a899.chunk.css.map",
+  "index.html": "/Repository-React/index.html",
+  "precache-manifest.548a1145f080a356fcd27b9b1ce77b6d.js": "/Repository-React/precache-manifest.548a1145f080a356fcd27b9b1ce77b6d.js",
+  "service-worker.js": "/Repository-React/service-worker.js"
 }
