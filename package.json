@@ -1,9 +1,11 @@
 {
-  "homepage": "http://rodrigodaniel.github.io/repository-gh-pages",
+  "homepage": "http://rodrigodan.github.io/Repository-React",
   "name": "resume",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajv": "^6.10.2",
+    "gh-pages": "^2.1.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "2.1.1"

@@ -1,13 +1,13 @@
-import { createCipher } from "crypto";
+// import { createCipher } from "crypto";
 
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    // "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Rodrigo Daniel",
     "role": "Software Developer",
     "linkedinId":"Your LinkedIn Id",
     "gmail": "rodrigogoncalvesdan@gmail.com",
     "skypeid": "Your skypeid",
-    "roleDescription": "I'm learning about web development, I love racking my mind in various teachnologies of Front-End and Back-End. Beyond the web development, I'm also interested in the data science area.",
+    "roleDescription": " learning about web development. I love racking my mind in various teachnologies of Front-End and Back-End. Beyond it, I'm also interested in the data science area.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -25,7 +25,7 @@ let resumeData = {
         //   "className":"fa fa-twitter"
         // }
       ],
-    "aboutme":"I am a Bachelor in Computer Scinece. I am a self taught Developer, versed in some programming languages like: JavaScript, Python, Java, C / C ++. I'm familiar with some technologies, concepts and Architecture,  including HTML5, CSS3, SCSS Jquery, Git, D3.js(JavaScript lib to manage data visualization), React, Flask(Python Framework for web development), Firebase, Heroku, Mocha, Redux, Maven, MVC, Spring and Genetic Algorithm.",
+    "aboutme":"Software Developer, with a bachelor's degree in Computer Science. I'm versed in some programming languages like JavaScript, Python, Java, C/C++.I’m familiar with some technologies, concepts, and Architectures including HTML5, CSS3, SCSS Jquery, Git, D3.js(JavaScript lib to manage data visualization), React, Flask(Python Framework for web development), Firebase, Heroku, Mocha, Redux, Maven, MVC, Spring and Genetic Algorithm. ",
     "address":"Brazil",
     "website":"https://rbhatia46.github.io",
     "education":[
@@ -85,7 +85,7 @@ let resumeData = {
         "id":2
       },
       {
-        "skillname":"Reactjs and Redux",
+        "skillname":"Reactjs",
         "id":3
       },
 

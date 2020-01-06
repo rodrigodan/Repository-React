@@ -1,4 +1,6 @@
-A simple Portifolio developed/designed using React JS.
+# Personal portfolio
+Developed/designed using React JS.
+To see it online, check out: https://github.com/rodrigodan/Repository-React
 
 ## Preview
 ![Preview](images-readme/repository.png)
